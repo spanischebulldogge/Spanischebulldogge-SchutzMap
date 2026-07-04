@@ -5,6 +5,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
 <link rel="stylesheet" href="style.css">
 
 </head>
@@ -13,74 +17,55 @@
 
 <header class="navbar">
 
-    <div class="logo">
+<div class="logo">
+<img src="logo.png" alt="Logo">
 
-        <img src="assets/logo.png
-        " alt="Logo">
+<div>
+<h1>SpanischeBulldogge</h1>
+<span>Einsatzkarte Deutschland</span>
+</div>
 
-        <div>
+</div>
 
-            <h1>SpanischeBulldogge</h1>
+<div class="search">
+<i class="fa-solid fa-magnifying-glass"></i>
 
-            <span>Einsatzkarte Deutschland</span>
+<input
+id="search"
+type="text"
+placeholder="Ort suchen...">
 
-        </div>
-
-    </div>
-
-    <div class="search">
-
-        <i class="fa-solid fa-magnifying-glass"></i>
-
-        <input
-                id="search"
-                type="text"
-                placeholder="Ort suchen...">
-
-    </div>
+</div>
 
 </header>
 
 <section class="dashboard">
 
-    <div class="card">
+<div class="card">
+<h2 id="caseCount">0</h2>
+<span>Dokumentierte Fälle</span>
+</div>
 
-        <h2 id="caseCount">0</h2>
+<div class="card">
+<h2 id="cityCount">0</h2>
+<span>Städte</span>
+</div>
 
-        <span>Dokumentierte Fälle</span>
+<div class="card">
+<h2 id="stateCount">0</h2>
+<span>Bundesländer</span>
+</div>
 
-    </div>
-
-    <div class="card">
-
-        <h2 id="cityCount">0</h2>
-
-        <span>Städte</span>
-
-    </div>
-
-    <div class="card">
-
-        <h2 id="stateCount">0</h2>
-
-        <span>Bundesländer</span>
-
-    </div>
-
-    <div class="card">
-
-        <h2>Seit 2026</h2>
-
-        <span>Aktiv</span>
-
-    </div>
+<div class="card">
+<h2>Seit 2026</h2>
+<span>Aktiv</span>
+</div>
 
 </section>
 
 <div id="map"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
 <script src="script.js"></script>
 
 </body>

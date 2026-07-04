@@ -112,30 +112,64 @@ body{
 
 @media screen and (max-width:768px){
 
-.dashboard{
-    grid-template-columns:1fr 1fr;
-    gap:15px;
+.navbar{
+    display:flex;
+    flex-direction:column;
+    align-items:stretch;
     padding:15px;
 }
 
-.card{
-    padding:18px;
+.logo{
+    width:100%;
+    justify-content:flex-start;
 }
 
-.card h2{
-    font-size:34px;
+.logo img{
+    width:50px;
+    height:50px;
 }
 
-#map{
-    height:60vh;
-    margin:15px;
+.logo h1{
+    font-size:26px;
 }
 
+.logo span{
+    font-size:13px;
 }
+
 .search{
     width:100%;
+    margin-top:15px;
 }
 
 .search input{
     width:100%;
+}
+
+.dashboard{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:12px;
+    padding:15px;
+}
+
+.card{
+    padding:15px;
+}
+
+.card h2{
+    font-size:32px;
+}
+
+.card span{
+    font-size:14px;
+}
+
+#map{
+    width:calc(100% - 30px);
+    height:65vh;
+    margin:15px;
+    border-radius:18px;
+}
+
 }
