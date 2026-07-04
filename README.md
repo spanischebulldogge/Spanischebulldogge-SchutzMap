@@ -1,0 +1,2 @@
+# Spanischebulldogge-SchutzMap
+Einsatzkarte Deutschland
