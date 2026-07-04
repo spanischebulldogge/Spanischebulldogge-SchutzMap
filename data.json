@@ -1,0 +1,348 @@
+[
+  {
+    "stadt": "Freiberg",
+    "bundesland": "Sachsen",
+    "faelle": 9,
+    "lat": 50.9147,
+    "lng": 13.3424
+  },
+  {
+    "stadt": "Leipzig",
+    "bundesland": "Sachsen",
+    "faelle": 5,
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  {
+    "stadt": "Chemnitz",
+    "bundesland": "Sachsen",
+    "faelle": 10,
+    "lat": 50.8278,
+    "lng": 12.9214
+  },
+  {
+    "stadt": "Dresden",
+    "bundesland": "Sachsen",
+    "faelle": 11,
+    "lat": 51.0504,
+    "lng": 13.7373
+  },
+  {
+    "stadt": "Oschatz",
+    "bundesland": "Sachsen",
+    "faelle": 2,
+    "lat": 51.2965,
+    "lng": 13.1094
+  },
+  {
+    "stadt": "Merseburg",
+    "bundesland": "Sachsen-Anhalt",
+    "faelle": 3,
+    "lat": 51.3548,
+    "lng": 11.9920
+  },
+  {
+    "stadt": "Döbeln",
+    "bundesland": "Sachsen",
+    "faelle": 2,
+    "lat": 51.1228,
+    "lng": 13.1120
+  },
+  {
+    "stadt": "Oberschöna",
+    "bundesland": "Sachsen",
+    "faelle": 1,
+    "lat": 50.9008,
+    "lng": 13.2573
+  },
+  {
+    "stadt": "Weißenborn",
+    "bundesland": "Sachsen",
+    "faelle": 1,
+    "lat": 50.8657,
+    "lng": 13.5533
+  },
+  {
+    "stadt": "Borna",
+    "bundesland": "Sachsen",
+    "faelle": 1,
+    "lat": 51.1243,
+    "lng": 12.4964
+  }
+,
+{
+  "stadt": "Weißenfels",
+  "bundesland": "Sachsen-Anhalt",
+  "faelle": 2,
+  "lat": 51.2013,
+  "lng": 11.9687
+},
+{
+  "stadt": "Tuttendorf",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9926,
+  "lng": 13.1437
+},
+{
+  "stadt": "Riesa",
+  "bundesland": "Sachsen",
+  "faelle": 2,
+  "lat": 51.3081,
+  "lng": 13.2936
+},
+{
+  "stadt": "Landshut",
+  "bundesland": "Bayern",
+  "faelle": 1,
+  "lat": 48.5442,
+  "lng": 12.1469
+},
+{
+  "stadt": "Stützengrün",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.5327,
+  "lng": 12.5308
+},
+{
+  "stadt": "Olbernhau",
+  "bundesland": "Sachsen",
+  "faelle": 2,
+  "lat": 50.6595,
+  "lng": 13.3428
+},
+{
+  "stadt": "Bad Hersfeld",
+  "bundesland": "Hessen",
+  "faelle": 1,
+  "lat": 50.8683,
+  "lng": 9.7089
+},
+{
+  "stadt": "Spitzkunnersdorf",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9629,
+  "lng": 14.6088
+},
+{
+  "stadt": "Langelsheim",
+  "bundesland": "Niedersachsen",
+  "faelle": 1,
+  "lat": 51.9364,
+  "lng": 10.3305
+},
+{
+  "stadt": "Pirna",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9628,
+  "lng": 13.9408
+},
+{
+  "stadt": "Ebersdorf",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9727,
+  "lng": 12.8735
+}
+,
+{
+  "stadt": "Glauchau",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.8199,
+  "lng": 12.5445
+},
+{
+  "stadt": "Burgstädt",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9182,
+  "lng": 12.8075
+},
+{
+  "stadt": "Bautzen",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.1800,
+  "lng": 14.4347
+},
+{
+  "stadt": "Hainichen",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.9717,
+  "lng": 13.1215
+},
+{
+  "stadt": "Coswig",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.1308,
+  "lng": 13.5832
+},
+{
+  "stadt": "Weimar",
+  "bundesland": "Thüringen",
+  "faelle": 1,
+  "lat": 50.9795,
+  "lng": 11.3235
+},
+{
+  "stadt": "Bitterfeld",
+  "bundesland": "Sachsen-Anhalt",
+  "faelle": 1,
+  "lat": 51.6239,
+  "lng": 12.3234
+},
+{
+  "stadt": "Berlin",
+  "bundesland": "Berlin",
+  "faelle": 1,
+  "lat": 52.5200,
+  "lng": 13.4050
+},
+{
+  "stadt": "Altenburg",
+  "bundesland": "Thüringen",
+  "faelle": 1,
+  "lat": 50.9876,
+  "lng": 12.4361
+},
+{
+  "stadt": "Hoyerswerda",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.4358,
+  "lng": 14.2352
+},
+{
+  "stadt": "Waldenburg",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.8754,
+  "lng": 12.6008
+},
+{
+  "stadt": "Görlitz",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.1526,
+  "lng": 14.9885
+},
+{
+  "stadt": "Nordhausen",
+  "bundesland": "Thüringen",
+  "faelle": 1,
+  "lat": 51.5018,
+  "lng": 10.7933
+},
+{
+  "stadt": "Oelsnitz",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.7254,
+  "lng": 12.7013
+},
+{
+  "stadt": "Delitzsch",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.5252,
+  "lng": 12.3424
+},
+{
+  "stadt": "Brand-Erbisdorf",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.8685,
+  "lng": 13.3232
+},
+{
+  "stadt": "Lauta",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.4598,
+  "lng": 14.1007
+},
+{
+  "stadt": "Lungau",
+  "bundesland": "Österreich",
+  "faelle": 1,
+  "lat": 47.1280,
+  "lng": 13.8110
+}
+,
+{
+  "stadt": "Lübben",
+  "bundesland": "Brandenburg",
+  "faelle": 1,
+  "lat": 51.9397,
+  "lng": 13.8936
+},
+{
+  "stadt": "Koblenz",
+  "bundesland": "Rheinland-Pfalz",
+  "faelle": 1,
+  "lat": 50.3569,
+  "lng": 7.5889
+},
+{
+  "stadt": "Niederlausitz",
+  "bundesland": "Brandenburg",
+  "faelle": 1,
+  "lat": 51.7500,
+  "lng": 14.1000
+},
+{
+  "stadt": "Aue-Bad Schlema",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.5897,
+  "lng": 12.6994
+},
+{
+  "stadt": "Erfurt",
+  "bundesland": "Thüringen",
+  "faelle": 1,
+  "lat": 50.9848,
+  "lng": 11.0299
+},
+{
+  "stadt": "Gröditz",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.4125,
+  "lng": 13.4532
+},
+{
+  "stadt": "Hettstedt",
+  "bundesland": "Sachsen-Anhalt",
+  "faelle": 1,
+  "lat": 51.6504,
+  "lng": 11.5118
+},
+{
+  "stadt": "Freital",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 51.0163,
+  "lng": 13.6518
+},
+{
+  "stadt": "Brandenburg an der Havel",
+  "bundesland": "Brandenburg",
+  "faelle": 1,
+  "lat": 52.4125,
+  "lng": 12.5316
+},
+{
+  "stadt": "Schneeberg",
+  "bundesland": "Sachsen",
+  "faelle": 1,
+  "lat": 50.5950,
+  "lng": 12.6418
+}
+]
